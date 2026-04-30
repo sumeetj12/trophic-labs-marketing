@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 96" width="240" height="96" role="img" aria-label="Trophic · commit">
+  <rect width="240" height="96" fill="#1A1A1A"></rect>
+  <line x1="50" y1="48" x2="200" y2="48" stroke="#33D6FF" stroke-width="1" fill="none" stroke-dasharray="160" stroke-dashoffset="160" opacity="0"></line>
+  <g shape-rendering="crispEdges">
+    <rect x="51" y="42" width="2" height="12" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="67" y="38" width="2" height="20" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="83" y="34" width="2" height="28" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="99" y="32" width="2" height="32" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="115" y="30" width="2" height="36" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="131" y="32" width="2" height="32" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="147" y="34" width="2" height="28" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="163" y="38" width="2" height="20" rx="1" fill="#9147FF" opacity="0"></rect>
+    <rect x="179" y="42" width="2" height="12" rx="1" fill="#9147FF" opacity="0"></rect>
+  </g>
+</svg>

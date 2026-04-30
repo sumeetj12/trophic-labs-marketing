@@ -1,0 +1,157 @@
+/* ─────────────────────────────────────────────────────────────
+   TROPHIC LABS · Design Tokens
+   Performance Architect for Tonal · AI-Driven · v2 · dark-default
+
+   Etymology: Greek trophē — nourishment, growth.
+   Hyper-trophy (muscle growth) + neuro-trophic factors (BDNF,
+   exercise-induced brain growth). The product produces both —
+   trophic in muscle and brain. T-aligned with Tonal (sibling).
+   ───────────────────────────────────────────────────────────── */
+
+:root {
+  /* ── Surface · neutrals (cool-tinted, ~0.005 chroma) ─────── */
+  --bg-base:        oklch(14% 0.008 270);   /* page background */
+  --bg-sunken:      oklch(11% 0.008 270);   /* table headers, gutters */
+  --bg-raised:      oklch(17% 0.009 270);   /* card */
+  --bg-elevated:    oklch(20% 0.010 270);   /* card hover, popover */
+  --bg-overlay:     oklch(22% 0.011 270);   /* modal */
+
+  /* ── Hairlines ──────────────────────────────────────────── */
+  --line-faint:     oklch(24% 0.010 270);
+  --line:           oklch(28% 0.012 270);
+  --line-strong:    oklch(34% 0.013 270);
+
+  /* ── Foreground type ─────────────────────────────────────── */
+  --fg:             oklch(96% 0.005 270);
+  --fg-muted:       oklch(72% 0.008 270);
+  --fg-subtle:      oklch(54% 0.010 270);
+  --fg-faint:       oklch(40% 0.010 270);
+
+  /* ── Neural Violet · AI-prescribed (Trophic Engine speaks) ── */
+  --violet-lum:     oklch(78% 0.16 305);    /* luminous lavender · highlights, glow */
+  --violet:         oklch(62% 0.22 295);    /* primary · #9147FF-class */
+  --violet-deep:    oklch(42% 0.20 295);    /* deep · backgrounds */
+  --violet-bg:      oklch(22% 0.06 295);    /* tinted surface */
+  --violet-bg-soft: oklch(18% 0.03 295);
+  --violet-line:    oklch(40% 0.14 295);
+
+  /* ── Cygnus Teal · User-actual (observed performance) ────── */
+  --teal-lum:       oklch(86% 0.10 215);
+  --teal:           oklch(80% 0.13 220);    /* #33D6FF-class */
+  --teal-deep:      oklch(58% 0.14 220);
+  --teal-bg:        oklch(22% 0.05 220);
+  --teal-bg-soft:   oklch(18% 0.025 220);
+  --teal-line:      oklch(40% 0.10 220);
+
+  /* Legacy aliases — kept so existing components (atlas-msg, badge--atlas,
+     etc.) continue to resolve. TROPHIC LABS is the active brand. */
+  --atlas-lum:      var(--violet-lum);
+  --atlas:          var(--violet);
+  --atlas-deep:     var(--violet-deep);
+  --atlas-bg:       var(--violet-bg);
+  --atlas-bg-soft:  var(--violet-bg-soft);
+  --atlas-line:     var(--violet-line);
+
+  /* ── Status (muted, intentional) ─────────────────────────── */
+  --ok:             oklch(70% 0.12 165);    /* fully  ●  */
+  --partial:        oklch(76% 0.11 85);     /*partial ◐  */
+  --missed:         oklch(64% 0.13 25);     /* missed ✕  */
+  --pending:        oklch(56% 0.010 270);   /* not yet ○  */
+
+  --ok-bg:          oklch(22% 0.04 165);
+  --partial-bg:     oklch(22% 0.04 85);
+  --missed-bg:      oklch(22% 0.05 25);
+  --pending-bg:     oklch(22% 0.008 270);
+
+  /* ── Chart palette · violet (AI Optimal) vs teal (Actual) ── */
+  --c-optimal:      var(--violet);
+  --c-actual:       var(--teal);
+  --c1:             oklch(72% 0.10 220);
+  --c2:             oklch(64% 0.12 235);
+  --c3:             oklch(56% 0.14 260);
+  --c4:             oklch(50% 0.16 285);
+  --c-atlas:        var(--violet);
+  --c-grid:         oklch(26% 0.010 270);
+
+  /* ── Radii ───────────────────────────────────────────────── */
+  --r-1: 4px;
+  --r-2: 6px;
+  --r-3: 8px;
+  --r-4: 12px;
+  --r-5: 16px;
+  --r-pill: 999px;
+
+  /* ── Shadows · restrained ────────────────────────────────── */
+  --shadow-1: 0 1px 0 0 oklch(0% 0 0 / 0.4);
+  --shadow-2: 0 4px 16px -4px oklch(0% 0 0 / 0.5);
+  --shadow-3: 0 24px 60px -20px oklch(0% 0 0 / 0.7);
+
+  /* Atlas signature glow — used ONLY on AI-active elements */
+  --glow-atlas:
+    0 0 0 1px oklch(62% 0.22 295 / 0.4),
+    0 0 24px -4px oklch(78% 0.20 305 / 0.5),
+    0 0 60px -12px oklch(78% 0.20 305 / 0.3);
+  --glow-atlas-soft:
+    0 0 0 1px oklch(62% 0.22 295 / 0.25),
+    0 0 32px -8px oklch(78% 0.20 305 / 0.25);
+
+  /* ── Spacing scale (4-base) ──────────────────────────────── */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 20px;
+  --s-6: 24px;
+  --s-7: 32px;
+  --s-8: 40px;
+  --s-9: 56px;
+  --s-10: 72px;
+
+  /* ── Type ────────────────────────────────────────────────── */
+  --font-sans:  'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-mono:  'IBM Plex Mono', ui-monospace, 'JetBrains Mono', monospace;
+  --font-num:   'IBM Plex Sans', ui-sans-serif, system-ui, sans-serif; /* tabular-nums */
+
+  /* size · ramp tuned for instrumentation */
+  --t-xs:   11px;
+  --t-sm:   12px;
+  --t-base: 13px;
+  --t-md:   15px;
+  --t-lg:   18px;
+  --t-xl:   22px;
+  --t-2xl:  28px;
+  --t-3xl:  36px;
+  --t-4xl:  48px;
+  --t-5xl:  64px;
+  --t-6xl:  88px;   /* statement number */
+
+  --lh-tight:  1.05;
+  --lh-snug:   1.25;
+  --lh-normal: 1.5;
+
+  --tracking-tight: -0.02em;
+  --tracking-num:   -0.015em;
+  --tracking-wide:   0.08em;   /* eyebrow labels */
+  --tracking-mono:   0.01em;
+
+  /* ── Motion ──────────────────────────────────────────────── */
+  --ease-out:  cubic-bezier(0.2, 0.7, 0.3, 1);
+  --ease-in:   cubic-bezier(0.4, 0, 1, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --d-instant: 80ms;
+  --d-fast:    140ms;
+  --d-base:    220ms;
+  --d-slow:    420ms;
+}
+
+/* Tabular numerics globally — instrumentation reads in columns */
+.tabular { font-variant-numeric: tabular-nums; letter-spacing: var(--tracking-num); }
+.mono    { font-family: var(--font-mono); font-feature-settings: "ss01", "ss02"; }
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: var(--t-xs);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  color: var(--fg-subtle);
+  font-weight: 500;
+}

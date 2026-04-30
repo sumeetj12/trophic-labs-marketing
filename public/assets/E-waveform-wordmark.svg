@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 200" width="480" height="200" role="img" aria-label="TROPHIC LABS">
+  <rect width="480" height="200" fill="#1A1A1A"></rect>
+  <g transform="translate(156 36)" shape-rendering="crispEdges">
+    <rect x="-1" y="0" width="2" height="14" fill="#4A4540"></rect>
+    <rect x="13" y="0" width="2" height="36" fill="#4A4540"></rect>
+    <rect x="27" y="0" width="2" height="14" fill="#4A4540"></rect>
+    <rect x="41" y="0" width="2" height="36" fill="#4A4540"></rect>
+    <rect x="55" y="0" width="2" height="14" fill="#4A4540"></rect>
+    <rect x="67.5" y="0" width="5" height="22.4" fill="#9147FF"></rect>
+    <rect x="81.5" y="0" width="5" height="56" fill="#9147FF"></rect>
+    <rect x="95.5" y="0" width="5" height="22.4" fill="#9147FF"></rect>
+    <rect x="111" y="0" width="2" height="36" fill="#4A4540"></rect>
+    <rect x="125" y="0" width="2" height="14" fill="#4A4540"></rect>
+    <rect x="139" y="0" width="2" height="36" fill="#4A4540"></rect>
+    <rect x="153" y="0" width="2" height="14" fill="#4A4540"></rect>
+    <rect x="167" y="0" width="2" height="36" fill="#4A4540"></rect>
+  </g>
+  <g transform="translate(111 132)" shape-rendering="crispEdges" fill="#9147FF">
+    <rect x="0" y="0" width="2.75" height="8.8"></rect>
+    <rect x="11" y="0" width="2.75" height="22"></rect>
+    <rect x="22" y="0" width="2.75" height="8.8"></rect>
+  </g>
+  <text x="148.95" y="150" fill="#F4F2EE" font-family="&#39;IBM Plex Sans&#39;, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="0.9">TROPHIC LABS</text>
+</svg>

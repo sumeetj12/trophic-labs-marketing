@@ -1,0 +1,18 @@
+# Netlify build configuration for Trophic Labs marketing site.
+# Site name: trophic-labs-marketing
+# Site ID:   7e4bc231-cb25-4560-abae-b9f43c8f80c5
+# Team:      Aloo (hello-yg-frlq)
+#
+# IMPORTANT: do NOT add `publish = ".next"`. The @netlify/plugin-nextjs plugin
+# manages the publish directory itself; specifying it here causes Netlify to
+# serve the site as static and bypass the server handler, which 404s every
+# route. We learned this the hard way 2026-04-30.
+
+[build]
+  command = "npm run build"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

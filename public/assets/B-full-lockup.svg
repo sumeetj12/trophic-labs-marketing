@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" width="720" height="240" role="img" aria-label="TROPHIC LABS · Performance Architect for Tonal · AI-Driven">
+  <rect width="720" height="240" fill="#1A1A1A"></rect>
+  <g transform="translate(120 80)" shape-rendering="crispEdges" fill="#9147FF">
+    <rect x="0" y="0" width="8" height="25.6"></rect>
+    <rect x="32" y="0" width="8" height="64"></rect>
+    <rect x="64" y="0" width="8" height="25.6"></rect>
+  </g>
+  <text x="230.4" y="136" fill="#F4F2EE" font-family="&#39;IBM Plex Sans&#39;, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="600" letter-spacing="2.6">TROPHIC LABS</text>
+  <text x="230.4" y="180" fill="#8C8780" font-family="&#39;IBM Plex Mono&#39;, ui-monospace, monospace" font-size="14" letter-spacing="2.5">PERFORMANCE ARCHITECT FOR TONAL · AI-DRIVEN</text>
+</svg>
