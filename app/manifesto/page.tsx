@@ -131,13 +131,13 @@ export default function ManifestoPage() {
                 <em>Muscle and Strength Pyramid</em>.
               </p>
               <p>
-                The frame Peter Attia popularized — training today for the body you&apos;ll
-                need at 80 — sits behind a lot of how we think. The same goes for Andrew
-                Huberman&apos;s emphasis on training as a primary lever for health across
-                decades. And <strong>Stacy Sims</strong> —{' '}
-                <em>women are not small men</em> — whose work on female-specific physiology,
-                the menstrual cycle, and perimenopause has reframed what evidence-based
-                training looks like for half the population.
+                <strong>Stacy Sims</strong> — <em>women are not small men</em> — has reframed
+                what evidence-based training looks like for half the population: female-specific
+                physiology, the menstrual cycle, perimenopause, the recovery profile that shifts
+                with hormonal cycles. The longevity arc more broadly — training today for the
+                body you&apos;ll need at 80 — sits behind a lot of how we think. The same goes
+                for Andrew Huberman&apos;s emphasis on training as a primary lever for health
+                across decades.
               </p>
               <p>
                 This is not new science. It is well-established science, applied with the

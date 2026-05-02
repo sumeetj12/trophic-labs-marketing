@@ -62,10 +62,12 @@ export default function HomePage() {
                   <span>Trophic Engine · briefing</span>
                 </div>
                 <div className="body">
-                  The Master Translator has read your <strong>982 working sets</strong> and finds
-                  the posterior chain <strong>18% ahead of baseline</strong>. Block 02 has been
-                  re-architected — a hinge-dominant day added, one push pulled, tonnage held flat.
-                  Today&apos;s session loads quad-focused; quads remain the only group{' '}
+                  The Master Translator has read your <strong>982 working sets</strong> and seen
+                  what eyes and spreadsheets miss — your right side is{' '}
+                  <strong>8% behind your left</strong>, your posterior chain is{' '}
+                  <strong>18% ahead of baseline</strong>. Block 02 has been re-architected — a
+                  hinge-dominant day added, one push pulled, tonnage held flat. Today&apos;s
+                  session loads quad-focused; quads remain the only group{' '}
                   <strong>drifting from target</strong>. The plan is now inside your Tonal.
                 </div>
                 <div className="meta">
@@ -248,19 +250,21 @@ export default function HomePage() {
 
             <div className="wedge-strip">
               <p>
-                <span className="step">01 · INGEST</span>
+                <span className="step">01 · LISTEN</span>
                 <strong>Your full training history</strong> through the Tonal API. Every set, every
                 rep, every load — already on your machine, finally read as a signal.
               </p>
               <p>
                 <span className="step">02 · MODEL</span>
-                <strong>Best Known Practices</strong> from decades of strength and hypertrophy
-                research, applied to your data — not a generic template.
+                <strong>Best Known Practices</strong> from decades of strength, hypertrophy, and
+                women&apos;s-physiology research — applied through advanced AI that catches what
+                spreadsheets miss: side asymmetries, weekly shifts, monthly under-stimulation.
               </p>
               <p>
                 <span className="step">03 · INJECT</span>
                 <strong>A complete five-week mesocycle</strong> appears inside your Tonal,
-                workout-by-workout, executable on your specific machine.
+                workout-by-workout, executable on your specific machine.{' '}
+                <em>No manual programming required.</em>
               </p>
             </div>
           </div>
@@ -287,8 +291,8 @@ export default function HomePage() {
                 <p>
                   Not a starter program. Not a coach&apos;s hunch. The plan reads what your body
                   has actually done — the loads you&apos;ve actually moved, the sessions
-                  you&apos;ve actually completed — and writes the next five weeks against that
-                  ground truth.
+                  you&apos;ve actually completed, the side that&apos;s lagging, the week your
+                  patterns shifted — and writes the next five weeks against that ground truth.
                 </p>
               </article>
               <article className="pillar">
@@ -308,7 +312,8 @@ export default function HomePage() {
                   value Tonal can deliver. The plan doesn&apos;t translate poorly into your
                   equipment — it&apos;s written{' '}
                   <em style={{ color: 'var(--violet-lum)', fontStyle: 'normal' }}>in</em> your
-                  equipment&apos;s language, then injected directly. The Tonal goes in.
+                  equipment&apos;s language, then injected directly. The Tonal goes in. The cycle
+                  is auto-injected — <em>no manual programming on your end.</em>
                 </p>
               </article>
             </div>
@@ -325,8 +330,8 @@ export default function HomePage() {
               </span>
               <h2 className="section-title">Standing on the shoulders of giants.</h2>
               <p className="section-sub">
-                Decades of strength, hypertrophy, and longevity research, distilled into the Logic
-                Layer. Three of the load-bearing ideas:
+                Decades of strength, hypertrophy, longevity, and women&apos;s-physiology research,
+                distilled into the Logic Layer. Four of the load-bearing ideas:
               </p>
             </div>
             <div className="method-grid">
@@ -350,7 +355,7 @@ export default function HomePage() {
                   to do at seventy, eighty, ninety.
                 </p>
                 <span className="more">Read the methodology</span>
-                <span className="citation">Attia, paraphrased · Huberman, paraphrased</span>
+                <span className="citation">The longevity arc · Huberman, paraphrased</span>
               </Link>
               <Link className="method-card" href="/methodology#framework-overload">
                 <span className="num">M-03</span>
@@ -362,6 +367,18 @@ export default function HomePage() {
                 </p>
                 <span className="more">Read the methodology</span>
                 <span className="citation">Israetel · classical block periodization</span>
+              </Link>
+              <Link className="method-card" href="/methodology#framework-sims">
+                <span className="num">M-04</span>
+                <h3>Women&apos;s-Physiology</h3>
+                <p>
+                  <em>Women are not small men.</em> Stacy Sims&apos;s work on female-specific
+                  physiology, hormonal cycles, perimenopause, and recovery rewrites how training
+                  is dosed for half the population. The Trophic Engine treats it as a load-bearing
+                  input, not a footnote.
+                </p>
+                <span className="more">Read the methodology</span>
+                <span className="citation">Sims · women are not small men</span>
               </Link>
             </div>
           </div>
@@ -379,15 +396,17 @@ export default function HomePage() {
                 A closed-loop AI system. <em>Surgical integration.</em>
               </h2>
               <p className="section-sub">
-                Three steps repeating, every cycle, automatic. The Intelligence Layer reads. The
-                Logic Layer reasons. The Master Translator writes — directly into Tonal.
+                Three steps repeating, every cycle, automatic. The Intelligence Layer{' '}
+                <strong>listens</strong>. The Logic Layer reasons through advanced AI. The Master
+                Translator writes — directly into Tonal.{' '}
+                <em>No manual programming. No spreadsheets.</em>
               </p>
             </div>
             <div className="engine-stage">
               <div className="engine-strip">
                 <div className="engine-step">
                   <div className="stepnum">— STEP 01</div>
-                  <h3>Ingest</h3>
+                  <h3>Listen</h3>
                   <p>
                     Your complete Tonal history streams in through the API. Every set you&apos;ve
                     ever lifted is now a signal the Logic Layer can read.
@@ -551,7 +570,7 @@ export default function HomePage() {
                   A complete five-week plan, workout-by-workout, appears inside your Tonal. You
                   walk up to the unit on a Tuesday morning and the day&apos;s session is loaded —
                   exact movements, exact loads, exact rest intervals. No spreadsheet. No
-                  translation. The Tonal goes in.
+                  translation. No manual programming on your end. The Tonal goes in.
                 </FAQItem>
                 <FAQItem q="What happens after the five weeks?">
                   A new mesocycle is computed and injected automatically — informed by what you
@@ -577,7 +596,7 @@ export default function HomePage() {
             <h2>
               Welcome to the Lab. <em>Let&apos;s build yours.</em>
             </h2>
-            <p>Proven science. Your data. AI. — Performance Architecture.</p>
+            <p>Proven science. Your data. AI. Bodies in every season. — Performance Architecture.</p>
             <div style={{ display: 'flex', gap: 12, justifyContent: 'center' }}>
               <Link className="btn btn--atlas" href="/pricing">
                 Begin Your First Cycle <span className="arr" />

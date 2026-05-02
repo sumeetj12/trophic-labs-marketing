@@ -25,7 +25,8 @@ export default function EnginePage() {
             </h1>
             <p className="lede">
               An Intelligence Layer for your Tonal — three steps, repeating, every cycle,
-              automatic.
+              automatic. Powered by the most advanced AI models available, getting better
+              exponentially, every quarter.
             </p>
           </div>
         </section>
@@ -35,7 +36,7 @@ export default function EnginePage() {
             <div className="wrap step-grid">
               <div className="step-copy">
                 <span className="step-eyebrow">Step 01</span>
-                <h2>Ingest.</h2>
+                <h2>Listen.</h2>
                 <p>
                   We read your full Tonal history through the API. Every set, every rep, every
                   weight. RPE where logged. Accessory used per movement. Time-under-tension. Rest
@@ -73,10 +74,14 @@ export default function EnginePage() {
                 <h2>Model.</h2>
                 <p>
                   The Logic Module reads the full history and applies Best Known Practices to
-                  your specific data. Weekly volume per muscle group against{' '}
+                  your specific data, run through advanced AI that catches what eyes and
+                  spreadsheets miss — the side of your body that&apos;s lagging the other, the
+                  week your patterns shifted, the muscle that&apos;s been quietly under-stimulated
+                  all month. Weekly volume per muscle group against{' '}
                   <strong>MEV / MAV / MRV</strong> landmarks. Frequency optimization per
-                  Schoenfeld&apos;s meta-analyses. Progression curves and stall detection per
-                  lift. Accessory grouping to keep workouts operationally clean.{' '}
+                  Schoenfeld&apos;s meta-analyses. Female-physiology calibration per Stacy
+                  Sims&apos;s work. Progression curves and stall detection per lift. Accessory
+                  grouping to keep workouts operationally clean.{' '}
                   <em>Deload timing based on accumulated fatigue, not the calendar.</em>
                 </p>
               </div>
@@ -103,8 +108,10 @@ export default function EnginePage() {
                 <p>
                   We push a complete five-week mesocycle directly into your Tonal. Phase-labeled.
                   Session-counted. Ready to lift. You walk to the machine —{' '}
-                  <em>the right workout is already there.</em> We watch what you actually did. The
-                  next cycle adjusts.
+                  <em>the right workout is already there.</em> We listen to what you actually did.
+                  The next cycle adjusts. No manual programming. No spreadsheets. And if
+                  you&apos;d rather plug in your own preferred AI model, that option&apos;s on the
+                  table — <em>the layer is yours.</em>
                 </p>
               </div>
               <div className="step-visual">
@@ -227,7 +234,10 @@ export default function EnginePage() {
             <p>
               We apply Best Known Practices — peer-reviewed, replicated, refined over decades — to
               your specific data. The methodologies are not ours.{' '}
-              <em>The application of them to your Tonal, every cycle, automatically, is.</em>
+              <em>
+                The application of them to your Tonal, every cycle, automatically, through
+                advanced AI, is.
+              </em>
             </p>
           </div>
         </section>
@@ -237,7 +247,7 @@ export default function EnginePage() {
             <h2>
               Begin your <em>first cycle.</em>
             </h2>
-            <p>14-day Architect trial. No credit card. Full closed loop.</p>
+            <p>14-day Architect trial. No credit card. Full closed loop. Designed for the body you actually have.</p>
             <div className="actions">
               <Link className="btn btn--atlas" href="/pricing">
                 Begin your first cycle <span className="arr" />

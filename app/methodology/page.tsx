@@ -36,7 +36,7 @@ export default function MethodologyPage() {
                 The frameworks we apply
               </p>
               <h2 className="section-heading">
-                Four pillars. Decades of research. Your data.
+                Five pillars. Decades of research. Your data.
               </h2>
             </header>
 
@@ -87,6 +87,19 @@ export default function MethodologyPage() {
                   your life). Software doesn&apos;t fix what software can&apos;t see.
                 </p>
               </article>
+
+              <article className="m-card" id="framework-sims">
+                <span className="m-card-eyebrow">Women are not small men · Sims</span>
+                <h3 className="m-card-heading">Women&apos;s-Physiology Calibration</h3>
+                <p className="m-card-body">
+                  Stacy Sims&apos;s work — featured on Huberman and the major fitness podcasts —
+                  has reframed how evidence-based training applies to female bodies. The hormonal
+                  cycle is an input. Perimenopause changes the prescription. Recovery requires
+                  different inputs. The Trophic Engine treats women&apos;s-physiology research as
+                  a load-bearing pillar, not a special case. Half the population trains
+                  differently — and the science says so.
+                </p>
+              </article>
             </div>
           </div>
         </section>
@@ -99,12 +112,15 @@ export default function MethodologyPage() {
                 Training today for the body you&apos;ll need at 80.
               </h3>
               <p className="m-card-body">
-                Peter Attia has popularized the frame: the strength and capacity you&apos;ll need
-                in your eighties is built in your forties and fifties. Andrew Huberman&apos;s work
-                points the same direction — resistance training as a primary lever for neural and
-                physical health across decades, not a vanity project for a single summer. The
-                Trophic Engine programs against the long arc. Every cycle is a deposit. The
-                compound interest is your future capacity.
+                Stacy Sims&apos;s arc for women is sharpest where it matters: the strength built
+                in perimenopause is the foundation of the next thirty years — bone density,
+                balance, metabolic health, the muscle that makes you yourself at 70 and 80. The
+                broader longevity research points the same way: strength as a primary lever for
+                health across decades, training today for the body you&apos;ll need at 80. Andrew
+                Huberman has been a leading voice on resistance training as foundational to
+                neural and physical health, not a vanity project for a single summer. The Trophic
+                Engine programs against the long arc. Every cycle is a deposit. The compound
+                interest is your future capacity.
               </p>
             </article>
           </div>
