@@ -83,8 +83,9 @@ export default function PricingPage() {
                 <p className="submeta">≈ $8.25 / month equivalent</p>
                 <p className="subline">First 14 days free. No credit card required.</p>
                 <p className="body">
-                  Unlimited AI on Sonnet 4.5. NL plan paste import. 14-day trial. 30-day
-                  money-back. $99/year.
+                  Unlimited AI Actions on Sonnet 4.5 — every cycle, every program, calibrated to
+                  your body, your data, your phase of life. NL plan paste import. 14-day trial.
+                  30-day money-back. $99/year.
                 </p>
                 <ul>
                   <li>Everything in Blueprint</li>
@@ -395,10 +396,11 @@ export default function PricingPage() {
                 </FAQItem>
                 <FAQItem q="What’s the difference between the 14-day trial and Blueprint?">
                   During the trial, you have <strong>unlimited AI</strong> — every Architect
-                  feature, including NL plan paste import. After 14 days, if you don&apos;t pay,
-                  your account drops to Blueprint: full data sync and execution stay free forever,
-                  but the AI throttle drops to{' '}
-                  <strong>3 Actions per rolling 30-day window</strong>.
+                  feature, including NL plan paste import, and the engine running through advanced
+                  AI that catches what spreadsheets miss (side asymmetries, weekly shifts,
+                  monthly under-stimulation). After 14 days, if you don&apos;t pay, your account
+                  drops to Blueprint: full data sync and execution stay free forever, but the AI
+                  throttle drops to <strong>3 Actions per rolling 30-day window</strong>.
                 </FAQItem>
                 <FAQItem q="What happens if I cancel?">
                   You keep Architect through the end of your paid period, then your account drops
@@ -450,7 +452,7 @@ export default function PricingPage() {
             <h2>
               Begin Your <em>First Cycle.</em>
             </h2>
-            <p>14-day trial. No credit card. Full Architect features.</p>
+            <p>14-day trial. No credit card. Full Architect features — designed for the body you actually have.</p>
             <div style={{ display: 'inline-flex', gap: 12, justifyContent: 'center' }}>
               <CheckoutButton className="btn btn--atlas">Begin 14-day trial</CheckoutButton>
             </div>
