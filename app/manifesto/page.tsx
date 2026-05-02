@@ -101,10 +101,11 @@ export default function ManifestoPage() {
                 muscle group you&apos;ve hit hard, and every one you haven&apos;t.
               </p>
               <p>
-                Most people see this as a workout log. We see a high-resolution picture of you
+                Most people see this as a workout log. AI sees a high-resolution picture of you
                 specifically — what you respond to, where you&apos;re growing fastest, where
-                there&apos;s room to do more. With the right system, that picture becomes
-                action — every cycle, calibrated to you.{' '}
+                there&apos;s room to do more. Until the AI tools of the last 12 months, this
+                library was unreadable at depth. Now it is. With the right system, that picture
+                becomes action — every cycle, calibrated to you.{' '}
                 <em>That&apos;s the loop we close.</em>
               </p>
             </div>
@@ -206,7 +207,7 @@ export default function ManifestoPage() {
                 workout into ninety — and you stop doing it.
               </p>
               <p>
-                So we design programs that account for how the Tonal actually works — its
+                So AI designs programs that account for how the Tonal actually works — its
                 movement library, its accessory transitions, its mechanics. The biology is
                 sound <em>and</em> the workout is doable on the machine in front of you.{' '}
                 <em>Both matter.</em>
@@ -233,16 +234,16 @@ export default function ManifestoPage() {
                 week, a great week.
               </p>
               <p>
-                The Trophic Engine treats those as inputs, not exceptions. When you&apos;re
-                recovering well, it presses. When you&apos;re not, it backs off. When
+                AI is what makes this calibration possible — reading your real-world signals at a
+                depth no human could and adjusting the program before you have to. When
+                you&apos;re recovering well, it presses. When you&apos;re not, it backs off. When
                 you&apos;re new to weight training, it starts you where the research says new
                 lifters grow fastest — and ramps as your body says you&apos;re ready. When
                 you&apos;ve been at it twenty years, it programs accordingly.
               </p>
               <p>
-                That&apos;s what &ldquo;personalized&rdquo; means when software does it
-                honestly. Not a vibe — a continuous calibration to the person actually using
-                the machine.
+                That&apos;s what &ldquo;personalized&rdquo; means when AI does it honestly. Not
+                a vibe — a continuous calibration to the person actually using the machine.
               </p>
             </div>
           </section>
@@ -259,11 +260,10 @@ export default function ManifestoPage() {
                 model the Trophic Engine is built around.
               </p>
               <p>
-                The difference is what software can do that a human cannot — measure the
-                relationships between volume, intensity, recovery, and progression across every
-                lift in your history, apply the same proven methodologies a great coach would
-                apply, at machine speed and machine memory, in lockstep with the machine you
-                train on.
+                The difference is what AI can do that a human cannot — measure the relationships
+                between volume, intensity, recovery, and progression across every lift in your
+                history, apply the same proven methodologies a great coach would apply, at
+                machine speed and machine memory, in lockstep with the machine you train on.
               </p>
               <p>
                 If you already work with a coach, the Trophic Engine makes their job easier —

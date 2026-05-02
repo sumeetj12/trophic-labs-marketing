@@ -97,12 +97,15 @@ export default function HomePage() {
                 The Translation
               </span>
               <h2 className="section-title">
-                The data was always there. <em>The architecture wasn&apos;t.</em>
+                The data was always there. <em>The AI to read it wasn&apos;t.</em>
               </h2>
               <p className="section-sub">
                 Every Tonal session is a measurement. Stitched together over months, those
-                measurements form a signal — but only if something reads it. The Master Translator
-                reads it.
+                measurements form a signal — but only if something can read it, at depth, every
+                set, every nuance. The AI tools to do that didn&apos;t exist five years ago. They
+                do now — getting better, exponentially, every quarter. The Master Translator runs
+                your data through the most advanced AI models available, and translates what they
+                see into the workout that comes next.
               </p>
             </div>
 
@@ -289,8 +292,8 @@ export default function HomePage() {
                 <span className="num">— 01</span>
                 <h3>Personalized to your data.</h3>
                 <p>
-                  Not a starter program. Not a coach&apos;s hunch. The plan reads what your body
-                  has actually done — the loads you&apos;ve actually moved, the sessions
+                  Not a starter program. Not a coach&apos;s hunch. Advanced AI reads what your
+                  body has actually done — the loads you&apos;ve actually moved, the sessions
                   you&apos;ve actually completed, the side that&apos;s lagging, the week your
                   patterns shifted — and writes the next five weeks against that ground truth.
                 </p>
@@ -301,7 +304,8 @@ export default function HomePage() {
                 <p>
                   Volume waves through MEV → MAV → MRV. Frequency holds where it should and shifts
                   where it should. Deloads land before you crash, not after. The architecture of
-                  progress is older than software; the software is finally old enough to apply it.
+                  progress is older than software; AI is finally smart enough to apply it
+                  precisely — every cycle, against your data, not a generic curve.
                 </p>
               </article>
               <article className="pillar">
@@ -330,8 +334,9 @@ export default function HomePage() {
               </span>
               <h2 className="section-title">Standing on the shoulders of giants.</h2>
               <p className="section-sub">
-                Decades of strength, hypertrophy, longevity, and women&apos;s-physiology research,
-                distilled into the Logic Layer. Four of the load-bearing ideas:
+                Decades of strength, hypertrophy, longevity, and women&apos;s-physiology research
+                — applied through advanced AI to your specific data, every cycle. Four of the
+                load-bearing ideas:
               </p>
             </div>
             <div className="method-grid">
@@ -409,7 +414,7 @@ export default function HomePage() {
                   <h3>Listen</h3>
                   <p>
                     Your complete Tonal history streams in through the API. Every set you&apos;ve
-                    ever lifted is now a signal the Logic Layer can read.
+                    ever lifted is now a signal AI can read — at depth no human could.
                   </p>
                   <div className="visual">
                     <div className="ribbon" />
@@ -419,9 +424,10 @@ export default function HomePage() {
                   <div className="stepnum">— STEP 02</div>
                   <h3>Model</h3>
                   <p>
-                    The Logic Layer applies Best Known Practices — periodization, volume landing
-                    zones, frequency, deload timing — to your measured response, not a textbook
-                    template.
+                    Advanced AI reads every set, every relationship, every nuance — applying Best
+                    Known Practices (periodization, volume landing zones, frequency, deload timing,
+                    female-physiology calibration) to the body in front of it. Not a textbook
+                    template. AI sees what eyes and spreadsheets miss.
                   </p>
                   <div className="visual">
                     <ProductWaveform mode="analyzing" />

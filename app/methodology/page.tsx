@@ -22,8 +22,9 @@ export default function MethodologyPage() {
             </p>
             <h1>We don&apos;t invent training science.</h1>
             <p className="lede">
-              We apply the science that works. Peer-reviewed. Replicated. Refined over decades.
-              Then rendered against your specific data, every cycle.
+              AI allows us to apply these methodologies — peer-reviewed, replicated, refined over
+              decades — against your specific data, every cycle. Calibrated to the body you
+              actually have.
             </p>
           </div>
         </section>
@@ -36,7 +37,7 @@ export default function MethodologyPage() {
                 The frameworks we apply
               </p>
               <h2 className="section-heading">
-                Five pillars. Decades of research. Your data.
+                Five pillars. Decades of research. AI applies them to your data.
               </h2>
             </header>
 
@@ -119,8 +120,9 @@ export default function MethodologyPage() {
                 health across decades, training today for the body you&apos;ll need at 80. Andrew
                 Huberman has been a leading voice on resistance training as foundational to
                 neural and physical health, not a vanity project for a single summer. The Trophic
-                Engine programs against the long arc. Every cycle is a deposit. The compound
-                interest is your future capacity.
+                Engine programs against the long arc, AI doing the work of holding decades of
+                research, your specific data, and the long arc in mind every cycle. Every cycle
+                is a deposit. The compound interest is your future capacity.
               </p>
             </article>
           </div>
@@ -134,10 +136,12 @@ export default function MethodologyPage() {
             </p>
             <h2>Best Known Practices in. Your specific data in. Workouts on your Tonal out.</h2>
             <p className="why-body">
-              That&apos;s it. The methodology is decades old. The application of it to your
-              specific data, every cycle, automatically, rendered for the machine you actually use
-              — <em>that&apos;s what&apos;s new.</em> We don&apos;t sell novelty. We sell the gap
-              between what the science says and what your Tonal currently does.
+              That&apos;s it. The methodology is decades old. The data was always there. What
+              wasn&apos;t was AI smart enough to combine them — to read your full history at
+              depth, calibrate the science to your body, and render a program against the machine
+              you actually use. <em>That&apos;s what&apos;s new.</em> We don&apos;t sell novelty.
+              We sell the gap between what the science has always said and what AI now lets you
+              do with it.
             </p>
           </div>
         </section>

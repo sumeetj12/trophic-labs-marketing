@@ -38,10 +38,11 @@ export default function EnginePage() {
                 <span className="step-eyebrow">Step 01</span>
                 <h2>Listen.</h2>
                 <p>
-                  We read your full Tonal history through the API. Every set, every rep, every
-                  weight. RPE where logged. Accessory used per movement. Time-under-tension. Rest
-                  intervals. Completion confidence on every prescribed lift.{' '}
-                  <em>Nothing summarized, nothing inferred</em> — the raw signal, intact.
+                  AI reads your full Tonal history through the API at depth no human could —
+                  every set, every rep, every weight. RPE where logged. Accessory used per
+                  movement. Time-under-tension. Rest intervals. Completion confidence on every
+                  prescribed lift. <em>Nothing summarized, nothing inferred</em> — the raw
+                  signal, intact.
                 </p>
               </div>
               <div className="step-visual">
@@ -73,11 +74,11 @@ export default function EnginePage() {
                 <span className="step-eyebrow">Step 02</span>
                 <h2>Model.</h2>
                 <p>
-                  The Logic Module reads the full history and applies Best Known Practices to
-                  your specific data, run through advanced AI that catches what eyes and
-                  spreadsheets miss — the side of your body that&apos;s lagging the other, the
-                  week your patterns shifted, the muscle that&apos;s been quietly under-stimulated
-                  all month. Weekly volume per muscle group against{' '}
+                  <strong>Advanced AI</strong> runs through your full Tonal history — every set,
+                  every rep, every nuance — and catches what eyes and spreadsheets miss: the side
+                  of your body that&apos;s lagging the other, the week your patterns shifted, the
+                  muscle that&apos;s been quietly under-stimulated all month. Then it applies Best
+                  Known Practices to your specific data: weekly volume per muscle group against{' '}
                   <strong>MEV / MAV / MRV</strong> landmarks. Frequency optimization per
                   Schoenfeld&apos;s meta-analyses. Female-physiology calibration per Stacy
                   Sims&apos;s work. Progression curves and stall detection per lift. Accessory
@@ -155,11 +156,14 @@ export default function EnginePage() {
               Inside the Logic Module
             </p>
             <h2>
-              What the engine <em>actually does.</em>
+              What the AI <em>actually does.</em>
             </h2>
             <p className="lede">
-              Simplified. The real engine handles edge cases, deload timing, accessory grouping,
-              and dozens of other concerns. The shape, though, is this:
+              AI lets us optimize Tonal&apos;s weight modes — eccentric, chains, smart flex,
+              burnout, drop sets — and model the workouts that apply Best Known Practices to your
+              unique data. Every cycle, calibrated to your body. Simplified, the real engine
+              handles edge cases, deload timing, accessory grouping, and dozens of other concerns.
+              The shape, though, is this:
             </p>
             <pre className="pseudo-code" aria-label="Logic module pseudo-code">
               <code>
@@ -247,7 +251,7 @@ export default function EnginePage() {
             <h2>
               Begin your <em>first cycle.</em>
             </h2>
-            <p>14-day Architect trial. No credit card. Full closed loop. Designed for the body you actually have.</p>
+            <p>14-day Architect trial. No credit card. Full AI-driven closed loop. Designed for the body you actually have.</p>
             <div className="actions">
               <Link className="btn btn--atlas" href="/pricing">
                 Begin your first cycle <span className="arr" />
