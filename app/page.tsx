@@ -300,12 +300,17 @@ export default function HomePage() {
               </article>
               <article className="pillar">
                 <span className="num">— 02</span>
-                <h3>Periodized programming.</h3>
+                <h3>Periodized programming that adapts.</h3>
                 <p>
                   Volume waves through MEV → MAV → MRV. Frequency holds where it should and shifts
                   where it should. Deloads land before you crash, not after. The architecture of
                   progress is older than software; AI is finally smart enough to apply it
-                  precisely — every cycle, against your data, not a generic curve.
+                  precisely — every cycle, against your data, not a generic curve.{' '}
+                  <em>
+                    And as you complete each week, the engine rewrites the next — reps, sets,
+                    weights, modes — against what your body actually did. Most programs adjust
+                    weights. Trophic adjusts everything else, too.
+                  </em>
                 </p>
               </article>
               <article className="pillar">

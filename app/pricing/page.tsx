@@ -93,14 +93,18 @@ export default function PricingPage() {
                     <strong>Unlimited AI Actions</strong>
                   </li>
                   <li>
-                    Full 5-week mesocycle push — <strong>~20 workouts per cycle</strong>
+                    Full 5-week mesocycle push — <strong>rolling 2-week window</strong>, the rest
+                    holds locally
+                  </li>
+                  <li>
+                    <strong>Adaptive mesocycle</strong> — weeks 3-5 rewrite against your real
+                    week 1-2 performance (reps, sets, weights, modes — all recalibrate)
                   </li>
                   <li>
                     <strong>Natural-language plan paste</strong> — paste any plan from any AI,
                     coach, or PDF; we push it to Tonal
                   </li>
                   <li>Body composition + photo tracking</li>
-                  <li>Weekly re-analysis + load adjustment</li>
                   <li>MEV / MAV / MRV per muscle group</li>
                 </ul>
                 <div className="actions">

@@ -185,7 +185,14 @@ export default function ManifestoPage() {
               </ol>
               <p>
                 You walk to the Tonal. The right workout is already there. You train. We listen
-                to what you actually did. <em>The next cycle adjusts.</em>
+                to what you actually did. <em>And not just the next cycle adjusts — this one
+                does too.</em>
+              </p>
+              <p>
+                We push the first 2 weeks of your 5-week mesocycle. As you finish week 1, AI
+                rewrites weeks 3, 4, and 5 against what your body actually did — reps, sets,
+                weights, modes, all recalibrated within the periodization. Most programs adjust
+                weights. Trophic adjusts everything else, too — within the science.
               </p>
               <p>
                 No manual programming. No spreadsheets. The cycle is auto-injected onto your
