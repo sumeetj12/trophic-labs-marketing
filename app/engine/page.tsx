@@ -159,35 +159,23 @@ export default function EnginePage() {
               Most programs are fixed. <em>Trophic&apos;s adapts week over week.</em>
             </h2>
             <p>
-              Tonal&apos;s built-in programs are excellent. They also follow the same model
-              every other program follows: the structure is locked at the start. Week 1 leads to
-              Week 5, regardless of how Week 1 actually went for you. Tonal&apos;s smart-flex
-              adjusts the weight on each set in the moment — that&apos;s real and useful — but the
-              program itself, the reps, the sets, the exercise selections, the modes — is fixed
-              from day one.
+              Every other program — including Tonal&apos;s built-ins — locks the plan at day
+              one. Tonal&apos;s smart-flex adjusts weight per set; the program itself
+              doesn&apos;t move.
             </p>
             <p>
-              Trophic isn&apos;t. The Engine pushes the first <strong>2 weeks</strong> of your
-              5-week mesocycle to Tonal. As you complete week 1, the AI reads what your body
-              actually did — what you progressed on, what stalled, where volume was right and
-              where it wasn&apos;t — and <strong>rewrites weeks 3 and 4</strong> against that
-              real data. Reps, sets, and program format — all recalibrated within the
-              periodization. (Weight stays Tonal&apos;s domain — its smart-flex already adapts
-              load per set; we don&apos;t double-correct.)
+              Trophic does. The Engine pushes weeks 1 and 2 to your Tonal. As you finish week 1,
+              the AI reads what your body actually did and{' '}
+              <strong>rewrites weeks 3 and 4</strong> against your real data — reps, sets, and
+              format, all recalibrated within the periodization.
             </p>
             <p>
-              The 5-week structure stays. Week 4 is always peak. Week 5 is always deload. The
-              periodization is the science.{' '}
-              <em>
-                What changes is the calibration — how peak and deload land for you specifically,
-                week over week.
-              </em>{' '}
-              By the time you finish week 2, the rest of your mesocycle has already been
-              re-architected against your reality.
+              Week 4 is still peak. Week 5 is still deload. The science holds.{' '}
+              <em>What adapts is how peak and deload land for you.</em> By the end of week 2,
+              the rest of your mesocycle has been re-architected to your reality.
             </p>
             <p className="why-body" style={{ marginTop: 16 }}>
-              <strong>Most programs adjust weights. Trophic adjusts everything else, too — within
-              the periodization frame.</strong>
+              <strong>Tonal adapts the weight. Trophic adapts the program.</strong>
             </p>
           </div>
         </section>
