@@ -170,9 +170,10 @@ export default function EnginePage() {
               Trophic isn&apos;t. The Engine pushes the first <strong>2 weeks</strong> of your
               5-week mesocycle to Tonal. As you complete week 1, the AI reads what your body
               actually did — what you progressed on, what stalled, where volume was right and
-              where it wasn&apos;t, what your RPE looked like — and{' '}
-              <strong>rewrites weeks 3, 4, and 5</strong> against that real data. Reps, sets,
-              working percentages, mode applications. All recalibrated.
+              where it wasn&apos;t — and <strong>rewrites weeks 3 and 4</strong> against that
+              real data. Reps, sets, and program format — all recalibrated within the
+              periodization. (Weight stays Tonal&apos;s domain — its smart-flex already adapts
+              load per set; we don&apos;t double-correct.)
             </p>
             <p>
               The 5-week structure stays. Week 4 is always peak. Week 5 is always deload. The
