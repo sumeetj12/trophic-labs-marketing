@@ -5,7 +5,11 @@ out/
 .env.local
 .env*.local
 .vercel/
-.netlify/
+# Netlify: ignore the local build cache + functions output but KEEP
+# .netlify/state.json tracked so Netlify (and CI) can identify the
+# site without a manual `netlify link` on every fresh checkout.
+.netlify/*
+!.netlify/state.json
 .DS_Store
 *.tsbuildinfo
 next-env.d.ts
