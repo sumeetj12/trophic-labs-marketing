@@ -504,7 +504,7 @@ export default function HomePage() {
                 <div className="tier">— Free Tier</div>
                 <div className="name">Trophic Blueprint</div>
                 <p className="blurb">
-                  FREE forever. Start with 14-day Architect trial (unlimited AI). After: 3 AI
+                  FREE forever. Start with 14-day Architect trial (unlimited AI). After: 10 AI
                   Actions per month. Plan import + workouts always work.
                 </p>
                 <div className="amount">
@@ -512,7 +512,7 @@ export default function HomePage() {
                 </div>
                 <ul>
                   <li>Full ingest of your Tonal history</li>
-                  <li>3 AI-architected actions per 30 days</li>
+                  <li>10 AI-architected actions per 30 days</li>
                   <li>Performance read + volume landing zones</li>
                   <li>No card required</li>
                 </ul>
@@ -524,15 +524,15 @@ export default function HomePage() {
                 <div className="tier">— Paid Tier</div>
                 <div className="name">Trophic Architect</div>
                 <p className="blurb">
-                  Unlimited AI on Sonnet 4.5. NL plan paste import. 14-day trial. 30-day
-                  money-back. $99/year.
+                  Sonnet 4.5 unlimited on the paid tier. NL plan paste import. 14-day trial (10
+                  Sonnet calls, then Haiku). 30-day money-back. $99/year.
                 </p>
                 <div className="amount">
                   $99<span className="per">/ year</span>
                 </div>
                 <ul>
                   <li>Auto-injected mesocycles · 6 program tracks</li>
-                  <li>Unlimited AI architecting + all program templates</li>
+                  <li>Unlimited AI architecting on Sonnet 4.5 + all program templates</li>
                   <li>Live Trophic dashboard (bento)</li>
                   <li>14-day trial · 30-day money-back</li>
                 </ul>

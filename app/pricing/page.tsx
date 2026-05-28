@@ -48,7 +48,7 @@ export default function PricingPage() {
                 </div>
                 <p className="subline">Always.</p>
                 <p className="body">
-                  FREE forever. Start with 14-day Architect trial (unlimited AI). After: 3 AI
+                  FREE forever. Start with 14-day Architect trial (unlimited AI). After: 10 AI
                   Actions per month. Plan import + workouts always work.
                 </p>
                 <ul>
@@ -59,7 +59,7 @@ export default function PricingPage() {
                   </li>
                   <li>Two weeks of programmed workouts pushed to Tonal</li>
                   <li>
-                    <strong>3 AI Actions per month</strong> — rolling 30-day window
+                    <strong>10 AI Actions per month</strong> — rolling 30-day window
                   </li>
                 </ul>
                 <div className="actions">
@@ -83,14 +83,14 @@ export default function PricingPage() {
                 <p className="submeta">≈ $8.25 / month equivalent</p>
                 <p className="subline">First 14 days free. No credit card required.</p>
                 <p className="body">
-                  Unlimited AI Actions on Sonnet 4.5 — every cycle, every program, calibrated to
-                  your body, your data, your phase of life. NL plan paste import. 14-day trial.
-                  30-day money-back. $99/year.
+                  Sonnet 4.5 — the sharpest model Anthropic ships — on every cycle, every
+                  program, calibrated to your body. NL plan paste import. 14-day trial (10
+                  Sonnet calls, then Haiku for the rest). 30-day money-back. $99/year.
                 </p>
                 <ul>
                   <li>Everything in Blueprint</li>
                   <li>
-                    <strong>Unlimited AI Actions</strong>
+                    <strong>Unlimited AI Actions on Sonnet 4.5</strong>
                   </li>
                   <li>
                     Full 5-week mesocycle push — <strong>rolling 2-week window</strong>, the rest
@@ -218,7 +218,7 @@ export default function PricingPage() {
                       Stats insight, plan summary, session-why, feedback summary, progress summary.
                     </span>
                   </td>
-                  <td>3 (rolling 30-day)</td>
+                  <td>10 (rolling 30-day)</td>
                   <td>Unlimited</td>
                 </tr>
                 <tr>
@@ -399,12 +399,12 @@ export default function PricingPage() {
                   Importing and running plans never count.
                 </FAQItem>
                 <FAQItem q="What’s the difference between the 14-day trial and Blueprint?">
-                  During the trial, you have <strong>unlimited AI</strong> — every Architect
-                  feature, including NL plan paste import, and the engine running through advanced
-                  AI that catches what spreadsheets miss (side asymmetries, weekly shifts,
-                  monthly under-stimulation). After 14 days, if you don&apos;t pay, your account
+                  During the trial, you get <strong>10 calls on Sonnet 4.5</strong> — the full
+                  paid model — then the engine continues on Haiku 4.5 for the remainder of the
+                  14 days. Every Architect feature (NL paste, mesocycle, MEV/MAV/MRV) stays
+                  unlocked the whole trial. After 14 days, if you don&apos;t pay, your account
                   drops to Blueprint: full data sync and execution stay free forever, but the AI
-                  throttle drops to <strong>3 Actions per rolling 30-day window</strong>.
+                  throttle drops to <strong>10 Actions per rolling 30-day window</strong>.
                 </FAQItem>
                 <FAQItem q="What happens if I cancel?">
                   You keep Architect through the end of your paid period, then your account drops
