@@ -56,6 +56,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             "var(--font-plex-mono), 'IBM Plex Mono', ui-monospace, monospace",
         }}
       >
+        <a className="skip-link" href="#main-content">
+          Skip to main content
+        </a>
         {children}
       </body>
     </html>

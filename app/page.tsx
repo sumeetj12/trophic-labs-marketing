@@ -16,7 +16,7 @@ export default function HomePage() {
   return (
     <>
       <Header current="/" />
-      <main>
+      <main id="main-content">
         {/* HERO */}
         <section className="hero">
           <div className="wrap">

@@ -13,7 +13,7 @@ export default function MethodologyPage() {
   return (
     <>
       <Header current="/methodology" />
-      <main>
+      <main id="main-content">
         <section className="page-hero">
           <div className="wrap">
             <p className="eyebrow">

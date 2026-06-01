@@ -13,7 +13,7 @@ export default function AboutPage() {
   return (
     <>
       <Header current="/about" />
-      <main>
+      <main id="main-content">
         <section className="page-hero" style={{ paddingTop: 120, paddingBottom: 72 }}>
           <div className="wrap" style={{ maxWidth: 760 }}>
             <p className="eyebrow">

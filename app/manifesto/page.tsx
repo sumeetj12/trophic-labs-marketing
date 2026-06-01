@@ -13,7 +13,7 @@ export default function ManifestoPage() {
   return (
     <>
       <Header current="/manifesto" />
-      <main>
+      <main id="main-content">
         <section className="page-hero">
           <div className="wrap" style={{ maxWidth: 760 }}>
             <p className="eyebrow">

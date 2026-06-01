@@ -14,7 +14,7 @@ export default function TermsPage() {
     <>
       <DraftBanner />
       <Header />
-      <main>
+      <main id="main-content">
         <section className="placeholder-page">
           <div className="wrap">
             <p className="eyebrow">
