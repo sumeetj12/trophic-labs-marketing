@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import LogoLockup from './LogoLockup';
+import MobileNav from './MobileNav';
 import { webAppPath } from '../lib/web-app-url';
 
 const NAV = [
@@ -35,6 +36,7 @@ export default function Header({ current }: { current?: string }) {
             Begin <span className="arr" />
           </Link>
         </div>
+        <MobileNav items={NAV} current={current} />
       </div>
     </header>
   );

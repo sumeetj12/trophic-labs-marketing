@@ -17,7 +17,7 @@ export default function PricingPage() {
   return (
     <>
       <Header current="/pricing" />
-      <main>
+      <main id="main-content">
         <section className="page-hero pricing-page-hero">
           <div className="wrap">
             <p className="eyebrow">
