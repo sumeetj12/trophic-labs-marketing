@@ -4,6 +4,7 @@ import Footer from '@/components/Footer';
 import FAQItem from '@/components/FAQItem';
 import CheckoutButton from '@/components/CheckoutButton';
 import { pageMetadata } from '@/lib/seo';
+import { webAppPath } from '@/lib/web-app-url';
 
 export const metadata = pageMetadata({
   title: 'Pricing',
@@ -63,9 +64,9 @@ export default function PricingPage() {
                   </li>
                 </ul>
                 <div className="actions">
-                  <Link className="btn btn--ghost btn--block" href="/">
+                  <a className="btn btn--ghost btn--block" href={webAppPath('/signup')}>
                     Start with Blueprint <span className="arr" />
-                  </Link>
+                  </a>
                 </div>
               </article>
 
