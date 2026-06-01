@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import LogoLockup from './LogoLockup';
+import { webAppPath } from '../lib/web-app-url';
 
 const NAV = [
   { href: '/methodology', label: 'Methodology' },
@@ -27,6 +28,9 @@ export default function Header({ current }: { current?: string }) {
           ))}
         </nav>
         <div className="top-ctas">
+          <a className="btn btn--ghost btn--sm" href={webAppPath('/login')}>
+            Log in
+          </a>
           <Link className="btn btn--atlas btn--sm" href="/pricing">
             Begin <span className="arr" />
           </Link>
